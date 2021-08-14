@@ -57,9 +57,6 @@ function setAlert(classNames, message) {
   }, 5000)
 }
 
-// if (document.getElementById('deleteTask')) {
-// let deleteButton = document.getElementById('deleteTask')
-
 document.addEventListener('click', function (e) {
   e.preventDefault()
   if (
